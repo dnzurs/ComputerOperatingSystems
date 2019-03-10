@@ -1,0 +1,57 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataStructuresSamples/.vs/DataStructuresSamples/v15
+/DataStructuresSamples/Assignment_1/Debug/Assignment_1.tlog
+/DataStructuresSamples/Assignment_1/Debug/Assignment_1.log
+/DataStructuresSamples/Assignment_2/Debug/Assignment_2.tlog
+/DataStructuresSamples/Assignment_2/Debug/Assignment_2.log
+/DataStructureSamples
+/DataStructureSamples
+/DataStructuresSamples/Assignment_2/HW - 2/Dosyalar/TürkçeKarakter.png
+/DataStructuresSamples/Assignment_2/HW - 2/Dosyalar/turkish-input.txt
+/DataStructuresSamples/Assignment_2/HW - 2/Dosyalar/readMe.pdf
+/DataStructuresSamples/Assignment_2/HW - 2/Dosyalar/Homework-2.pdf
+/DataStructuresSamples/Assignment_2/HW - 2/Dosyalar/english-input.txt
+/DataStructuresSamples/Assignment_2/HW - 2/Dosyalar/Duyuru.txt
+/DataStructuresSamples/Assignment_1/Debug
+/DataStructuresSamples/Assignment_2/Debug
+/DataStructuresSamples/Debug
+/.vs/DataStructuresSamples/v15
+/Assignment_1/x64/Debug/Assignment_1.tlog
+/Assignment_1/x64/Debug
+/Assignment_2/x64/Debug
+/x64/Debug
+/Assignment_1/Debug
+/Assignment_1/Release
+/Assignment_1/x64/Release
+/Assignment_2
+/Debug
+/Release
+/x64/Release
+/Assignment_Bonus/BLG223EHWBonus
+/Assignment_Bonus/x64/Debug/Assignment_Bonus.tlog
+/Assignment_Bonus/x64/Debug/vc141.pdb
+/Assignment_Bonus/x64/Debug/vc141.idb
+/Assignment_Bonus/x64/Debug/runtime.obj
+/Assignment_Bonus/x64/Debug/Assignment_Bonus.log
+/Assignment_3/x64/Debug
+/Assignment_3/Debug
+/Assignment_Bonus/Debug
+/Assignment_Bonus/x64/Debug
+/Assignment_3/src/examples
+/Assignment_3/Dosya
+/Assignment_4/Dosya/Data_Structures_HW4_Tests_Ninova
+/Assignment_4/Dosya
+/Assignment_4/Debug
+/Assignment_5/Debug/Assignment_5.tlog
+/Assignment_5/Debug
+/Assignment_5/Dosya
+/.vs/ComputerOperatingSystems/v15/Solution.VC.db-wal
+/.vs/ComputerOperatingSystems/v15/Solution.VC.db-shm
+/.vs/ComputerOperatingSystems/v15/Solution.VC.db
+/.vs/ComputerOperatingSystems/v15/ipch/AutoPCH/baedf619dbe92a05/ASSIGNMENT1.ipch
+/.vs/ComputerOperatingSystems/v15/Browse.VC.opendb
+/.vs/ComputerOperatingSystems/v15/Browse.VC.db
+/.vs/ComputerOperatingSystems/v15/.suo
